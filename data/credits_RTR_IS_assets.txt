@@ -1,0 +1,931 @@
+_RTR
+_Imperium Surrectum
+
+
+A total conversion mod for
+Total War: ROME REMASTERED (2021)
+
+
+
+
+_Development Team
+
+_Lead
+ahowl11
+
+
+_3D Modelling
+
+tone
+Swagger
+Grimbold|AceSnake047
+burninator|exi
+Balbor|refract
+El Santo Padre|Ortiga
+starkgate (upscaling of RTR and RS content)
+
+
+_Mapping
+
+jorellaf
+
+
+_Historical Research
+
+Mausolos
+jottel|Genava55
+jorellaf|Maurits
+Galvanized Iron Raptor|
+Leveller|Ray245
+
+
+_Coding
+
+tone|ahowl11
+Lusitanio|jorellaf
+capy_the_bara|Biggus Dickus
+moscaflaca|exi
+Barney|Maurits (text files)
+Drunk|refract
+vicboss|NakedSpur
+Apple|Lvcke
+
+
+_Scripting
+
+Eduardo Sousa|hereandnowlive
+capy_the_bara|exi
+Biggus Dickus
+Dementive|Lusitanio
+Zeus Nikephoros|zuzaman
+
+
+_Unit Balancing
+
+tone|moscaflaca|
+ahowl11|Vicboss
+
+
+_Campaign Balancing
+
+moscaflaca|ahowl11
+exi|vicboss
+
+_Textures
+
+tone|Swagger
+refract|Balbor
+NakedSpur|messenger
+ortiga|Stricker
+starkgate (upscaling of RTR and RS content)
+
+
+_Unit Cards
+
+moscaflaca|ortiga
+starkgate (upscaling of RTR and RS content)
+
+
+_Skies, Environments, Battle Map & Campaign Graphics
+
+Swagger
+
+
+_Vegetation
+
+tone
+Swagger
+
+
+_2D Art
+
+Stricker|NakedSpur
+jorellaf|DVK901
+
+
+_Splash Screen
+DVK901
+
+
+_Writing and Text Editing
+
+Mausolos
+Maurits
+Genava55|jottel
+Rex Basilicus|jorellaf
+Rex|Stricker
+Galvanized Iron Raptor|Caligula Caesar
+Ambioris of Lugdunum|ImJustWiggles
+messenger|
+
+
+_Tools and Programming
+
+jorellaf
+Swagger|Landerote
+Zeus Nikephoros|hereandnowlive
+Biggus Dickus
+International Man of Mistery
+
+
+
+
+_Discord and Steam Workshop Administration
+
+Apple
+Maurits
+AmyClaraRose|moscaflaca
+jorellaf|
+
+
+_Git Repository Administration
+
+The Lord Drake
+AmyClaraRose
+
+
+_Public Relations
+
+Red Zed
+moscaflaca|Apple
+Maurits|IambicIndeedV2
+Andy's Take
+
+
+
+
+_Testers (for this version)
+
+exi|jottel
+moscaflaca|Lollygagging
+The. Shark|messenger
+IambicIndeedV2|Ewatta
+
+And many more ... !
+
+We also wish to thank all of our open beta testers for their insights and feedback!
+
+
+
+
+_Music
+
+_Roma Surrectum
+
+Apple|Arn
+Garv|Elendil
+Marios Aristopoulos|
+
+
+_Rome: Total Realism
+
+Tyler Cunningham|Alex McGery
+Alejandro Rodriguez|Sean Underwood
+Vlad Kuryluk (https://youtube.com/@VladKuryluk)
+
+
+_Paeninsula Italica
+
+Garve|Hister
+
+_0 A.D.
+
+0 A.D. Soundtrack
+(https://play0ad.com/media/music/)
+by
+
+Composer and musical director:
+Omri Lahav
+
+Additional music:
+Jeff Willet
+Mike Skalandunas
+Shlomi Nogay
+
+Featuring:
+Marta Mc'Cave Dayan|Flute
+Shir-Ran Yinon|Violin, viola
+Jenni Asher|Violin, viola
+Avior Rokah|Trumpet
+Shlomi Nogay|Ethnic flutes
+Avital Rom|Celtic harp
+Yotam Ronen|Tin whistles
+Jeff Willet|Drums, percussion
+Dror Parker|Percussion
+Bar Guzi|Djembe
+Yael Pinto|Didgeridoo
+Omri Lahav
+Guitars, mandolin, oud, saz, accordion, acoustic bass, bouzouki
+
+is licensed under CC BY-SA 3.0 license
+Creative Commons Attribution-Share Alike 3.0 - see
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
+
+
+_Additional music
+BrunuhVille (https://youtube.com/@BrunuhVille)
+
+
+
+
+_Special Thanks to:
+
+DVK901
+Pacco
+Leif Erikson
+and the rest of the Roma Surrectum team
+
+
+The Rome: Total Realism 6.0 and VII development team
+
+
+Makanyane
+wilddog
+for the IWTE tool
+
+vartan, lanjane and the TWC Community
+for their open sharing of bug fixes and tools
+
+
+The Feral Interactive development team
+for their continuous support and advice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_The Bugbusters
+
+
+
+Who you gonna call?
+
+
+
+
+
+Tony 'The Modfather' tone
+
+
+ahowl 'El Howlito Grande' 11
+
+
+jirisys 'The Wizard' jorellaf
+
+
+mosca 'Testes Maximus' flaca
+
+
+TWC 'The Weatherman' Swagger
+
+
+The 'sexi' exi
+
+
+Dr 'Not an Orange' Apple (music bugs)
+
+
+Mausolos 'Lord of the Temple' of Mylasa (historical bugs)
+
+
+jottel 'DB Regio' hotel (unit concept bugs)
+
+
+Maurits 'The Flying Dutchman' of the Hollanders (text bugs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_Total War: ROME REMASTERED (2021)
+
+Design and Development of the Remastered version by
+
+_FERAL INTERACTIVE
+
+_Direction
+
+David Stephen
+
+_Production
+
+Thomas Massey
+James Nowlan|Jon Barry
+Nikesh Patel|
+
+
+_Design
+
+Edwin Smith
+Andrea D'Acunzo|Benedict Parker
+Hannah Lewis|Jamie Chinery
+Sam Jeffreys|Sam Williamson
+Valeria Petruzzelli|
+
+
+_Development Team
+
+Ian Bullock
+Ahsan Fayaz|Alessandro Ravaglia
+Alex Gallacher|Andrei Voiculas
+Annop Prapasapong|August Dahlkvist
+Ben Lawrence|Brad Oliver
+Chris Wolyniec|Christos Loukovikas
+Dair Grant|Dominique Russell
+Dovydas Simoliunas|Edward Sherlock
+Finn Bryant|Giacomo Garbin
+Henryk Kosobucki|James Legg
+Jason Wyatt|Javier Salcedo
+Jennifier Burnett|Jon Chronopoulos
+Maksims Galkins|Matteo Bertello
+Matthew Nicholls|Octavian-Iliuta Taralunga
+Oliver Steptoe|Paolo Zhu
+Paul Kovacs|Pierre Cholet
+Piotr Zawadzki|Rebecca Morley
+Rhys Theckston|Robin Rai
+Saman Gharatchorlou|Sebastiano Cossu
+Stan Irvin-Wilmot|Stavros Bizelis
+Thierry Faucounau|Tiberiu-George Corcescu
+Yiannis Sarris|Zain Rajput
+
+
+_Kreatin Studios
+
+Emrecan Cubukcu|Kivanc Cubukcu
+
+
+_Art
+
+Fernando Bresciano
+Chris Ginder|Doug Barned
+Eilidh Price|Harry Littlejohn
+Lorenzo Procentese|Mark Langdon
+Mus Cetiner|Raquel Quiroga
+
+
+_Freelance Artists
+
+Anya Jo Elvidge|Lesya Kostiuk
+Nat Martin|Rachael Alderson
+Sonya Virchenko|
+
+
+_Quality Assurance
+
+Daniel Kirilov
+Alexander Worley|Anay Patel
+Andrea Ciancetta|Braian Strak
+Charlie Tanner|Diego Chimienti
+Diego Magana Ibanez|Edward Crowley
+Isaac Oluyadi|Jack Colquhoun
+Jack Keywood|Jake Ward
+Lawrence Weston|Linus Dominique
+Louis Drinkwater|Natansh Bajpai
+Neil Doyle|Rachel Shuttleworth
+Shehan Amarasekera|Tarek Alkomi
+Tim Fitzgerald|
+
+
+_Marketing
+
+James Tabbinor
+Andy Wood|Craig Seymour
+Steph Horrocks|
+
+
+_Localisation
+
+Lewis Jenkins
+Susan Wong|Timur Kagolkin
+
+
+_Freelance Translators
+
+Anthony Teixeira|Arterm Sedov
+Cristina Mazzucchelli|Fabrice Brunon
+Francesca Pezzoli|Kit Rumpenhorst
+Lian Pang|Li Zhikun
+Pengyuan Zhao|Qibiao Sun
+Rolf Klischewski|Song Mengyang
+Tatutrad Traductores|Yulia Babenko
+
+
+_Voiceover Services
+
+Voquent Ltd.
+
+
+_Voices
+
+Alessandra De Luca|Alexander Krapinevich
+Bob Bavnani|Christian Olah
+Chuck Chu|Corneliu Dragormirescu
+Daniel Alexander|Daniela Kälin
+David Miles|Dimitry Rozental
+Dominic Kolb|Francesco Venture
+Giuseppe Prestia|Hadi Hajjar
+Hector Gomez Diaz|Igor Hochlowkin
+Jesus Godoy|Luca Torchiani
+Luis-Alberto Casado|Luis Maia
+Luis Soto|Mandy Liu
+Marina Kalmykova|Markus Meutre
+Matt Zhang|Nano Nagle
+Nuria Santos|Pablo Ibáñez
+Paolo Balestri|Shao Lun Lu
+Shaun Giblin|Thierry Legrand
+Valérie Marinelli|Viacheslav Timoshenko
+Xiaofeng Li|
+
+
+_Support Team
+
+Gerard Mcauley
+Bryn Powell|Sam Gardener
+
+----
+
+
+_CREATIVE ASSEMBLY
+
+
+_Command Team / Senior Management
+
+Gareth Edmondson – Studio Director
+
+James Clarke – Chief Operation Officer
+
+Mike Simpson – Executive Producer
+
+Tim Regel – Franchise Development Director
+
+David Bowman – Studio Development Director
+
+Gabor Beressy – Director of Live Services
+
+Kevin McDowell – Art Director
+
+Rob Bartholomew – Chief Product Officer
+
+
+_Total War
+
+_Brand Marketing
+
+Richard Gittins – Marketing and PR Director
+
+
+_Brand Management (Total War – Historical)
+
+Kevin Taylor - Head of Brand
+
+Davie Andrew – Lead Brand Manager
+
+George Willard – Associate Brand Manager
+
+Kimberley Ballard – Associate Brand Manager
+
+
+_Community
+
+Eddy Dew – Head of Community Marketing
+
+Dominic Read – Lead Content Producer
+
+Jordan Wright – Production Manager
+
+Ian Parkin – Senior Content Producer
+
+Niklas Johansson – Content Producer
+
+Will White – Content Producer
+
+Grace Carroll – Lead Community & Social Media Manager
+
+Simone Parenti – Community Manager
+
+James High – Community Manager
+
+Ella McConnell – Community Content Editor
+
+Tom Philips – Lead Player Experience Manager
+
+Eric Duan – Player Experience Manager – China Region
+
+William Glynn – Associate Player Experience Manager
+
+
+_Communications
+
+Ben Boudreau – Head of Communications
+
+Stéphanie Yath – Senior PR Manager
+
+Kieran Rooney – PR Manager
+
+Kate Fanthorpe – Associate Development Communications Manager
+
+Josh Williams – Lead Influencer Relations Manager
+
+
+_Brand Design
+
+Matt Wright – Lead Brand Designer
+
+Declan Keane – Creative Designer
+
+
+_Live Operations Marketing
+
+Amanda Cuthbert – Live Operations Marketing Director
+
+Fitsy Polson – Brand Manager
+
+Spencer Colvin – Senior Brand Manager
+
+
+_Production
+
+Hannah Peratopoullos – Senior Development Manager
+
+Celia Borrull – Development Manager
+
+
+_Art & Animation
+
+Heather Reynolds – Art Coordinator
+
+
+_Design
+
+Jack Lusted – Game Director
+
+
+_Programming
+
+Noah Schoenholtz – Lead Full-Stack Developer
+
+_Special Thanks
+
+Eric Miller|James Given
+
+----
+
+
+_SEGA EUROPE
+
+Tatsuyuki Miyazaki - Chairman
+
+Gary Dale - COO/President
+
+John Ward - CFO
+
+Tim Heaton - Chief Studio Officer
+
+
+_Marketing/PR
+
+Anna Downing - SVP, Commercial Publishing
+
+Dan Lazarides - VP, Central Marketing
+
+Benjamin Walker - Central Product Marketing Director
+
+Peter Oliver - Central Communications Director
+
+Lewis Herbert - Senior Product Manager
+
+Ha-Rim Kim - Junior Product Manager
+
+Ibrahim Bhatti - SEGA Community Marketing Manager
+
+Ryan King - Senior International PR Manager
+
+
+_Online Services
+
+Nicholas McKenzie - Director of Digital Design and CRM
+
+Scott Bone - Web & Analytics Producer
+
+Marta Aguas Camilo - Senior Web Designer
+
+Sean Gallagher - Head of CX and UI Design
+
+
+_Creative Services
+
+James Kent - Senior Creative Designer
+
+Arnoud Tempelaere - Creative Project Manager
+
+Ranjan Vekaria - Creative Lead
+
+Christian Bailey - Senior Video Editor
+
+Elliot Kidner - Head of Video Suite
+
+Jeffrey Webber - Director of Creative Services
+
+Amarjit Bilkhu - Creative Designer
+
+Angel Rodriguez Segura - Video Suite Editor
+
+Daniel Torres - Video Editor
+
+
+_Customer Support
+
+John White - Customer Support Manager
+
+Mitchell Ranklin - Customer Support Assistant
+
+
+_Digital Business
+
+Rhys Cash - Head of Digital Sales
+
+Simon Cowley - Senior Business Manager (Digital Sales)
+
+Mohsin Mirza - Digital Distribution Administrator
+
+
+_Business Development
+
+Damien Mauric - VP SEGA Studios, Business Development
+
+Peter Chan - Senior Director Business Development
+
+
+_Business Planning
+
+Katsuhiro Ichinose - SVP, Business Planning
+
+Takahiro Suzaki - Business Planning Coordinator
+
+Yuki Takita - Senior Corporate Development Manager
+
+Yoshiko Mukaiyama - Senior Business Planning Analyst
+
+Natsuko Kojima - Director of Business Planning
+
+Diogo dos Reis Ambrosio - Business Planning Associate
+
+Naoko Kozai - Business Planning Administrator
+
+Matthew Hodgson - Business Analysis Manager
+
+Daniel Vincent - Research Executive
+
+Lucy Peaple - Head of Consumer Insights
+
+Jean-Yves Lapasset - Director of Business Analysis
+
+Douglas Owusu - Consumer Insights Manager
+
+Alex Easter - Finance Business Partner
+
+
+_Operations
+
+Natalie Cooke - Operations Director
+
+Jacob Nixon - Operations Executive
+
+Peter Mattinson - Operations Administrator
+
+----
+
+
+_SEGA Black Sea
+
+_QA Manager
+
+Evgeny Kolev
+
+
+_Functionality QA Lead
+
+Dimitar Danailov
+
+
+_Functionality QA Testers
+
+Aleksandar Landzhev|Boris Mihailov
+Georgi Kolev|Iliana Petrova
+Kaloyan Lulchev|Kiril Yolovski
+Presiyana Varbanova|Svetlin Slaveykov
+
+----
+
+
+_KEYWORDS STUDIOS KATOWICE
+
+_FQA Director - Eurasia
+
+Chris Bewick
+
+
+_FQA Manager
+
+Łukasz Szewczyk
+
+
+_FQA Project Manager
+
+Tomasz Blicharski
+
+
+_FQA Lead
+
+Jakub Lipiec
+
+
+_FQA Associate Lead
+
+Matylda Mizera
+
+
+_FQA Testers
+
+Mateusz Jachymek|Mikołaj Żelazny
+Jakub Majka|Wojciech Lukesz
+Stanisław Skalski|Piotr Glica
+Witold Hojka|Dominika Szweda
+Piotr Cofałka|Adam Białecki
+Mateusz Dziuba|Adrian Piotrowski
+Paweł Soliwoda|Kamil Bugdoł
+Arkadiusz Janiczek|Kacper Mistarz
+Michał Szczudło|Grzegorz Pisuła
+Kacper Kieda|
+
+
+Total War: ROME REMASTERED uses the trueSKY Plugin,
+Copyright 2007 – 2021, Simul Software Ltd. All rights reserved.
+
+----
+
+
+_Rome: Total War - ORIGINAL CREDITS (2004)
+
+
+_THE CREATIVE ASSEMBLY
+
+_Project Director
+
+Mike Simpson
+
+_Production
+
+Ross Manton
+Luci Black
+
+_Production (CA Oz)
+
+George Fidler
+
+_Design
+
+R. T. Smith
+Mike Brunton|Michael De Plater
+Jamie Ferguson|Chris Gambold
+
+_Programming
+
+Jerome Grasdyke
+Robbie Austrums|Alan Blair
+Ric Broadhurst|Lee Cowen
+J. Guy Davidson|Charlie Dell
+Chris Gascoyne|Tom Miles
+Scott Pitkethly|Jon Raftery
+
+_Programming (CA Oz)
+
+Ken Turner
+Daniel Glastonbury|Artem Kulakov
+Martin Slater|
+
+_Art
+
+Kevin McDowell
+Joss Adley|Paul Abbott
+Greg Alston|Andrew Bedford
+Ranulf Busby|John Carline
+Will Hallsworth|Ben Potts
+Irina Rohvarger|Nick Tresadern
+
+_Music & Audio Direction
+
+Jeff van Dyck
+
+_Sound Effects & Post Production
+
+Richard Vaughan
+
+_PR & Marketing
+
+Ian Roxburgh
+Richie Skinner
+
+_Testing
+
+Graham Axford
+James Buckle|Dion Lay
+Gian Piras|Ken Rafferty
+Stephen Virgo|Jeff Woods
+
+_Supporting Roles
+
+Tim Ansell
+Alex Chapman|Martin De Sutton
+Peter Brophy|Gareth Hailes
+Kevin Hoque|Melvyn Quek
+Scott Ryan|
+
+_Additional Art
+
+Jude Bond|Jason Dalton
+Tunde Glover|Alistair Hope
+Howard Rayner|Ester Reeve
+Nick Smith|Brendan Rogers
+Chris Waller|
+
+_Vocals
+
+Angela van Dyck
+
+_Mandolin & Guitar
+
+Saki Kaskas
+
+_Voices
+
+Kubler Auckland Management
+Jonathan Atherton|George Baladinos
+Andrew Buchanan|Adam Cooper
+Karen Crone|Haskel Daniel
+Michael Futcher|Damien Garvey
+Terry Hansen|George Kapiniaris
+Caroline Kennison|Todd Levi
+Bruno Lucia|Anthony Mir
+Errol O'Neill|Yalin Ozucelik
+Simon Palomares|Jimmy Poulos
+Akmal Saleh|Martin Slater
+Leo Taylor|Matt Zeremes
+
+_Thanks
+
+Musiclab (Brisbane)|Roger Beames
+Alkis Alkiviades|David Hamilton-Williams
+Mark Milton|Steve O’Hagan
+Phil Morris|Kerry Shale
+
+A big thanks to the Org, all the
+moderators on the official forums,
+and all the fans that have helped
+make the online community
+as great as it is!
+
+And a huge thanks to our families and friends
+for their understanding and support.
+
+
+
+Portions of this software are copyright © 1996 - 2021 The
+FreeType Project (www.freetype.org). All rights reserved.

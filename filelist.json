@@ -1,0 +1,66 @@
+[
+	{
+		"filename": "data\/descr_campaigns.txt",
+		"checksum": 420420815
+	},
+	{
+		"filename": "data\/text\/input.txt",
+		"checksum": 3277596494
+	},
+	{
+		"filename": "data\/text\/main_campaign_regions_and_settlement_names.txt",
+		"checksum": 0
+	},
+	{
+		"filename": "data\/text\/output.txt",
+		"checksum": 0
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/descr_regions.txt",
+		"checksum": 2809148691
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/descr_terrain.txt",
+		"checksum": 4099003615
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_climates.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_features.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_ground_types.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_heights.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_lakes.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_regions.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_roughness.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/map_snow.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/text\/input.txt",
+		"checksum": 3277596494
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/main_campaign\/text\/main_campaign_regions_and_settlement_names.txt",
+		"checksum": 0
+	}
+]
