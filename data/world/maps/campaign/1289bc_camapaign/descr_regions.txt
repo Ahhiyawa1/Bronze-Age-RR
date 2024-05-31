@@ -1,0 +1,137 @@
+;
+; regions list
+;
+
+; 1. Argolis
+; 2. Saronic Gulf
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; *********************************************************
+; *********************************************************
+; 1. Argolis
+
+Temenion_R
+	Temenion
+	faction1
+	Achaeans
+	87 65 26
+	none 
+	2
+	4
+Tiryns_R
+	Tiryns
+	faction1
+	Achaeans
+	134 77 77
+	none
+	4
+	6
+Asine_R
+	Asine
+	faction1
+	Achaeans
+	25 111 57
+	none
+	4
+	6
+Strouthos_R
+	Strouthos
+	faction1
+	Achaeans
+	54 109 82
+	none
+	4
+	6
+Didymoi_R
+	Didymoi
+	faction1
+	Achaeans
+	145 140 98
+	none
+	4
+	6    
+Mases_R
+	Mases
+	faction1
+	Achaeans
+	153 157 134
+	none
+	4
+	6  
+Halieis_R
+	Halieis
+	faction1
+	Achaeans
+	143 41 41
+	none
+	4
+	6  
+Argos_R
+	Argos
+	faction1
+	Achaeans
+	135 31 31
+	none
+	6
+	8
+Midea_R
+	Midea
+	faction1
+	Achaeans
+	148 130 155
+	none
+	6
+	7
+Lessa_R
+	Lessa
+	faction1
+	Achaeans
+	88 95 137
+	none
+	3
+	4
+Pityoussa_R
+	Pityoussa
+	faction1
+	Achaeans
+	58 80 34
+	none
+	3
+	4
+Hermione_R
+	Hermione
+	faction1
+	Achaeans
+	183 207 88
+	none
+	4
+	6  
+Eileoi_R
+	Eileoi
+	faction1
+	Achaeans
+	242 51 51
+	none
+	4
+	6  
+Troizen_R
+	Troizen
+	faction1
+	Achaeans
+	49 36 115
+	none
+	4
+	6  
+Pityonesos_R
+	Pityonesos
+	faction1
+	Achaeans
+	156 88 94
+	none
+	4
+	6  
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; *********************************************************
+; *********************************************************
+; 2. Saronic Gulf
