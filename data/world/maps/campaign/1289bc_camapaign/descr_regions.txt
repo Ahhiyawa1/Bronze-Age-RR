@@ -242,9 +242,9 @@ Sinikonion_R
 	6
 Gyaros_R
 	Gyaros
-	ioulis ; Rebel Owned
+	ioulis ; Rebel Owned + May Remove Later
 	Achaeans
 	40 35 180
 	none
 	4
-	6	
+	6 
