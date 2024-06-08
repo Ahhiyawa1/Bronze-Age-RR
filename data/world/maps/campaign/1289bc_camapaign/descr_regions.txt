@@ -154,9 +154,73 @@ Aegina_R
 	6  
 Aphaia_R
 	Aphaia
-	aegina ; Aegina
+	aegina ; Rebel Owned
 	Achaeans
 	112 33 33
 	none
 	4
 	6  
+Salamis_R
+	Salamis
+	salamis ; Salamis
+	Achaeans
+	199 155 155
+	none
+	4
+	6 
+Boudoron_R
+	Boudoron
+	salamis ; Rebel Owned
+	Achaeans
+	130 77 194
+	none
+	4
+	6
+Karthaia_R
+	Karthaia
+	ioulis ; Rebel_Owned
+	Achaeans
+	106 184 170
+	none
+	4
+	6
+Poiessa_R
+	Poiessa
+	ioulis ; Rebel_Owned
+	Achaeans
+	228 33 72
+	none
+	4
+	6
+Ioulis_R
+	Ioulis
+	ioulis ; Ioulis
+	Achaeans
+	84 17 30
+	none
+	4
+	6
+Kythnos_R
+	Kythnos
+	ioulis ; Rebel Owned
+	Achaeans
+	168 178 20
+	none
+	4
+	6
+Methythrae_R
+	Methythrae
+	ioulis ; Rebel Owned
+	Achaeans
+	54 88 7
+	none
+	4
+	6
+Heletrias_R
+	Heletrias
+	ioulis ; Rebel Owned
+	Achaeans
+	108 114 36
+	none
+	4
+	6	
