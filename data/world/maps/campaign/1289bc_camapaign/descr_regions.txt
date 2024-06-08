@@ -223,4 +223,28 @@ Heletrias_R
 	108 114 36
 	none
 	4
+	6
+Seriphos_R
+	Seriphos
+	ioulis ; Rebel Owned
+	Achaeans
+	51 58 190
+	none
+	4
+	6	
+Sinikonion_R
+	Sinikonion
+	ioulis ; Rebel Owned
+	Achaeans
+	117 118 106
+	none
+	4
+	6
+Gyaros_R
+	Gyaros
+	ioulis ; Rebel Owned
+	Achaeans
+	40 35 180
+	none
+	4
 	6	
