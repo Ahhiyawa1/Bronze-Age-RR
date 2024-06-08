@@ -2,9 +2,14 @@
 ; regions list
 ;
 
+; Rebel Owned means it's rebel controlled in descr_strat
+;; Use https://imperium.ahlfeldt.se for reference
+
 ; 1. Argolis
 ; 2. Saronic Gulf
 ; 3. Kythera
+; 4. Ionian Islands (Ithaka/Dulichium/Cephellania)
+; 5. Ionian Islands (Zakynthos)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; *********************************************************
@@ -299,6 +304,131 @@ Antikythera_R
 	kythera ; Rebel Owned
 	Achaeans
 	10 112 42
+	none
+	4
+	6
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; *********************************************************
+; *********************************************************
+; 3. Ionian Islands (Ithaka/Dulichium/Cephellania)
+
+Dulichium_R
+	Dulichium
+	dulichia ; Dulichians
+	Achaeans
+	57 102 42
+	none
+	4
+	6
+Karnos_R
+	Karnos
+	dulichia ; Rebel Owned
+	Achaeans
+	41 86 26
+	none
+	4
+	6
+Ithaca_R
+	Ithaca
+	spain ; Ithaka
+	Achaeans
+	51 62 76
+	none
+	4
+	6
+Alalkomenai_R
+	Alalkomenai
+	spain ; Ithaka
+	Achaeans
+	19 84 164
+	none
+	4
+	6
+Pyrgarnacia_R
+	Pyrgarnacia
+	spain ; Ithaka
+	Achaeans
+	23 80 151
+	none
+	4
+	6
+Same_R
+	Same
+	spain ; Ithaka
+	Achaeans
+	103 120 163
+	none
+	4
+	6
+Palaiokastron_R
+	Palaiokastron
+	cephellania ; Rebel Owned
+	Achaeans
+	27 70 9
+	none
+	4
+	6
+Pronnoi_R
+	Pronnoi
+	cephellania ; Cephellania
+	Achaeans
+	35 66 22
+	none
+	4
+	6
+Nea_Skala_R
+	Nea_Skala
+	cephellania ; Cephellania
+	Achaeans
+	118 143 206
+	none
+	4
+	6
+Olynthenae_R
+	Olynthenae
+	cephellania ; Rebel Owned
+	Achaeans
+	74 128 51
+	none
+	4
+	6
+Krane_R
+	Krane
+	cephellania ; Rebel Owned
+	Achaeans
+	16 61 175
+	none
+	4
+	6
+Aconion_R
+	Aconion
+	ithaka ; Ithaka
+	Achaeans
+	32 82 10
+	none
+	4
+	6
+Syrolis_R
+	Syrolis
+	ithaka ; Ithaka
+	Achaeans
+	76 89 121
+	none
+	4
+	6
+Pale_R
+	Pale
+	ithaka ; Rebel Owned
+	Achaeans
+	32 52 23
+	none
+	4
+	6
+Ayia_Vatsa_R
+	Ayia_Vatsa
+	ithaka ; Rebel Owned
+	Achaeans
+	100 147 81
 	none
 	4
 	6
