@@ -76,7 +76,7 @@ Argos_R
 	8
 Midea_R
 	Midea
-	pontus ; Argos
+	parthia ; Midea
 	Achaeans
 	148 130 155
 	none
@@ -116,7 +116,7 @@ Eileoi_R
 	6  
 Troizen_R
 	Troizen
-	pontus ; Argos
+	troezen ; Troezen
 	Achaeans
 	49 36 115
 	none
@@ -124,7 +124,7 @@ Troizen_R
 	6  
 Pityonesos_R
 	Pityonesos
-	pontus ; Argos
+	troezen ; Troezen
 	Achaeans
 	156 88 94
 	none
@@ -132,7 +132,7 @@ Pityonesos_R
 	6  
 Hydroussa_R
 	Hydroussa
-	pontus ; Argos
+	troezen ; Troezen
 	Achaeans
 	79 60 60
 	none
@@ -143,3 +143,20 @@ Hydroussa_R
 ; *********************************************************
 ; *********************************************************
 ; 2. Saronic Gulf
+
+Aegina_R
+	Aegina
+	aegina ; Aegina
+	Achaeans
+	146 44 110
+	none
+	4
+	6  
+Aphaia_R
+	Aphaia
+	aegina ; Aegina
+	Achaeans
+	112 33 33
+	none
+	4
+	6  
