@@ -12,7 +12,7 @@
 
 Temenion_R
 	Temenion
-	faction1
+	pontus ; Argos
 	Achaeans
 	87 65 26
 	none 
@@ -20,7 +20,7 @@ Temenion_R
 	4
 Tiryns_R
 	Tiryns
-	faction1
+	pontus ; Argos
 	Achaeans
 	134 77 77
 	none
@@ -28,7 +28,7 @@ Tiryns_R
 	6
 Asine_R
 	Asine
-	faction1
+	pontus ; Argos
 	Achaeans
 	25 111 57
 	none
@@ -36,7 +36,7 @@ Asine_R
 	6
 Strouthos_R
 	Strouthos
-	faction1
+	pontus ; Argos
 	Achaeans
 	54 109 82
 	none
@@ -44,7 +44,7 @@ Strouthos_R
 	6
 Didymoi_R
 	Didymoi
-	faction1
+	pontus ; Argos
 	Achaeans
 	145 140 98
 	none
@@ -52,7 +52,7 @@ Didymoi_R
 	6    
 Mases_R
 	Mases
-	faction1
+	pontus ; Argos
 	Achaeans
 	153 157 134
 	none
@@ -60,7 +60,7 @@ Mases_R
 	6  
 Halieis_R
 	Halieis
-	faction1
+	pontus ; Argos
 	Achaeans
 	143 41 41
 	none
@@ -68,7 +68,7 @@ Halieis_R
 	6  
 Argos_R
 	Argos
-	faction1
+	pontus ; Argos
 	Achaeans
 	135 31 31
 	none
@@ -76,7 +76,7 @@ Argos_R
 	8
 Midea_R
 	Midea
-	faction1
+	pontus ; Argos
 	Achaeans
 	148 130 155
 	none
@@ -84,7 +84,7 @@ Midea_R
 	7
 Lessa_R
 	Lessa
-	faction1
+	pontus ; Argos
 	Achaeans
 	88 95 137
 	none
@@ -92,7 +92,7 @@ Lessa_R
 	4
 Pityoussa_R
 	Pityoussa
-	faction1
+	pontus ; Argos
 	Achaeans
 	58 80 34
 	none
@@ -100,7 +100,7 @@ Pityoussa_R
 	4
 Hermione_R
 	Hermione
-	faction1
+	pontus ; Argos
 	Achaeans
 	183 207 88
 	none
@@ -108,7 +108,7 @@ Hermione_R
 	6  
 Eileoi_R
 	Eileoi
-	faction1
+	pontus ; Argos
 	Achaeans
 	242 51 51
 	none
@@ -116,7 +116,7 @@ Eileoi_R
 	6  
 Troizen_R
 	Troizen
-	faction1
+	pontus ; Argos
 	Achaeans
 	49 36 115
 	none
@@ -124,9 +124,17 @@ Troizen_R
 	6  
 Pityonesos_R
 	Pityonesos
-	faction1
+	pontus ; Argos
 	Achaeans
 	156 88 94
+	none
+	4
+	6  
+Hydroussa_R
+	Hydroussa
+	pontus ; Argos
+	Achaeans
+	79 60 60
 	none
 	4
 	6  
