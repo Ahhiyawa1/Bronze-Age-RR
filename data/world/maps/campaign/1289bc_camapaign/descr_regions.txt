@@ -2,7 +2,7 @@
 ; regions list
 ;
 
-; Rebel Owned means it's rebel controlled in descr_strat
+; Rebel Owned means it's rebel controlled in descr_strat (i.e the starting position script/text file)
 ;; Use https://imperium.ahlfeldt.se for reference
 
 ; 1. Argolis
@@ -463,7 +463,7 @@ Kat_Eleos_R
 	6
 Elatus_R
 	Elatus
-	achaeans ; rebel faction
+	zakynthos ; Rebel Owned
 	Achaeans
 	45 75 73
 	none
@@ -471,7 +471,7 @@ Elatus_R
 	6
 Limni_Keriou_R
 	Limni_Keriou
-	achaeans ; rebel faction
+	zakynthos ; Rebel Owned
 	Achaeans
 	7 63 60
 	none
@@ -479,7 +479,7 @@ Limni_Keriou_R
 	6
 Dimitrios_R
 	Dimitrios
-	achaeans ; rebel faction
+	zakynthos ; Rebel Owned
 	Achaeans
 	22 35 35
 	none
@@ -487,7 +487,7 @@ Dimitrios_R
 	6
 Vrakhionas_r
 	Vrakhionas
-	achaeans ; rebel faction
+	zakynthos ; Rebel Owned
 	Achaeans
 	20 124 117
 	none
