@@ -432,3 +432,64 @@ Ayia_Vatsa_R
 	none
 	4
 	6
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; **
+; **
+; 5. Ionian Islands (Zakynthos)
+
+Zakynthos_R
+    Zakynthos
+    zakynthos ; Zakynthos
+    Achaeans
+    44 71 69
+    none
+    4
+    6
+Kalogeros_R
+	Kalogeros
+	zakynthos ; Zakynthos
+	Achaeans
+	22 93 144
+	none
+	4
+	6
+Kat_Eleos_R
+	Kat_Eleos
+	zakynthos ; Zakynthos
+	Achaeans
+	5 68 63
+	none
+	4
+	6
+Elatus_R
+	Elatus
+	achaeans ; rebel faction
+	Achaeans
+	45 75 73
+	none
+	4
+	6
+Limni_Keriou_R
+	Limni_Keriou
+	achaeans ; rebel faction
+	Achaeans
+	7 63 60
+	none
+	4
+	6
+Dimitrios_R
+	Dimitrios
+	achaeans ; rebel faction
+	Achaeans
+	22 35 35
+	none
+	4
+	6
+Vrakhionas_r
+	Vrakhionas
+	achaeans ; rebel faction
+	Achaeans
+	20 124 117
+	none
+	4
+	6
