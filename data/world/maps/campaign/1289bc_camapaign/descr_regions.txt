@@ -10,6 +10,7 @@
 ; 3. Kythera
 ; 4. Ionian Islands (Ithaka/Dulichium/Cephellania)
 ; 5. Ionian Islands (Zakynthos)
+; 6. Krete
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; *********************************************************
@@ -490,6 +491,18 @@ Vrakhionas_r
 	zakynthos ; Rebel Owned
 	Achaeans
 	20 124 117
+	none
+	4
+	6
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; **
+; **
+; 6. Krete
+Tylissos_R
+	Tylissos
+	Knossos ; Rebel Owned
+	Minoans
+	59 49 14
 	none
 	4
 	6
