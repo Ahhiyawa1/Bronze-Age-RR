@@ -500,7 +500,7 @@ Vrakhionas_r
 ; 6. Krete
 Tylissos_R
 	Tylissos
-	Knossos ; Rebel Owned
+	knossos ; Rebel Owned
 	Minoans
 	59 49 14
 	none
